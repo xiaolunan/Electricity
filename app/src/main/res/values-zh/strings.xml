@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">充电提示</string>
+    <string name="title">当电池充满电时发出声音</string>
+    <string name="open_service">开启服务</string>
+    <string name="prompt">此功能需要开启媒体音量，媒体音决定提示音的音量大小</string>
+    <string name="electricity">电池电量:</string>
+</resources>

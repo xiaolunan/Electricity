@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Electricity</string>
+    <string name="title">Warn when the battery is fully charged</string>
+    <string name="open_service">Open the service</string>
+    <string name="prompt">This function requires the media volume to be turned on, and the media tone determines the volume level of the tone</string>
+    <string name="electricity">Electricity:</string>
+</resources>

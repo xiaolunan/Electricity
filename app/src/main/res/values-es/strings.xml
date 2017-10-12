@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Electricidad</string>
+    <string name="title">Advertir cuando la batería está completamente cargada</string>
+    <string name="open_service">Abrir el servicio</string>
+    <string name="prompt">Esta función requiere que el volumen de medios se encienda y el tono de medios determina el nivel de volumen del tono</string>
+    <string name="electricity">Electricidad:</string>
+</resources>
